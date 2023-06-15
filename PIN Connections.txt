@@ -1,0 +1,24 @@
+Arduino with :
+
+1. Servo Motor -
+ Orange Color - Arduino PIN3
+ Yellow color - Arduino +
+ Green Color - Arduino -
+
+2. IR(1) - Output with Arduino A2
+3. IR(2) - Output with Arduino A3
+
+4. Display -
+GND with Arduino -
+VCC with Arduino +
+SDA with Arduino A4
+SCL with Arduino A5
+
+5. RFID -
+ 3.3V with 3.3V
+ GND with Arduino -
+ Reset with PIN 9
+ SDA with PIN 10
+ SCK with PIN 13
+ MOSI with PIN 11
+ MISO with PIN 12
